@@ -32,6 +32,7 @@
       "minecraft:dripstone_caves": "2025-06-18 20:26:05 +0000",
       "minecraft:forest": "2025-06-18 21:08:51 +0000",
       "minecraft:jungle": "2025-06-18 19:57:20 +0000",
+      "minecraft:flower_forest": "2025-06-20 18:27:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-18 22:09:06 +0000",
       "minecraft:plains": "2025-06-18 22:15:28 +0000"
     },
@@ -1504,15 +1505,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "more_ores_more_gems:essence_of_jade": {
     "criteria": {
-      "has_leather": "2025-06-18 22:20:03 +0000"
+      "essence_of_jade_0": "2025-06-18 21:17:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
+  "more_ores_more_gems:yummy_lemonite": {
     "criteria": {
-      "has_gravel": "2025-06-18 21:30:33 +0000"
+      "yummy_lemonite_0": "2025-06-18 21:18:19 +0000"
+    },
+    "done": true
+  },
+  "more_ores_more_gems:rainbowhite_combination": {
+    "criteria": {
+      "rainbowhite_combination_0": "2025-06-18 21:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-18 21:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-18 21:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-18 21:20:37 +0000"
     },
     "done": true
   },
@@ -1534,117 +1559,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-06-18 21:30:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-06-18 21:20:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-18 21:30:33 +0000"
-    },
-    "done": true
-  },
-  "more_ores_more_gems:titanium_digger": {
-    "criteria": {
-      "titanium_digger_0": "2025-06-18 21:41:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-18 21:30:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-06-18 22:20:03 +0000"
-    },
-    "done": true
-  },
-  "more_ores_more_gems:the_essenceof_aether": {
-    "criteria": {
-      "the_essenceof_aether_0": "2025-06-18 21:31:37 +0000"
-    },
-    "done": true
-  },
-  "more_ores_more_gems:more_rare": {
-    "criteria": {
-      "more_rare_0": "2025-06-18 21:41:05 +0000"
-    },
-    "done": true
-  },
-  "more_ores_more_gems:mining_the_moonlight": {
-    "criteria": {
-      "mining_the_moonlight_0": "2025-06-18 21:41:05 +0000"
-    },
-    "done": true
-  },
-  "more_ores_more_gems:celestial_conqueror": {
-    "criteria": {
-      "celestial_conqueror_0": "2025-06-18 21:45:22 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
-    "criteria": {
-      "has_wheat": "2025-06-18 22:17:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-18 21:44:20 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:creeperling": {
-    "criteria": {
-      "encountered_creeperling": "2025-06-18 21:30:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-06-18 21:24:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-06-18 22:17:25 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/username_logger": {
-    "criteria": {
-      "has_redstone": "2025-06-18 21:30:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-06-18 22:17:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-06-18 22:20:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2025-06-18 21:30:33 +0000"
     },
     "done": true
   },
@@ -1660,9 +1577,63 @@
     },
     "done": true
   },
-  "more_ores_more_gems:yummy_lemonite": {
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
-      "yummy_lemonite_0": "2025-06-18 21:18:19 +0000"
+      "has_diamond": "2025-06-18 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2025-06-18 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-18 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-06-18 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-18 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-18 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-18 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-18 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-18 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "more_ores_more_gems:twilight_fusion": {
+    "criteria": {
+      "twilight_fusion_0": "2025-06-18 21:28:16 +0000"
     },
     "done": true
   },
@@ -1672,9 +1643,51 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/horse": {
+  "travelersbackpack:recipes/misc/standard": {
     "criteria": {
-      "has_leather": "2025-06-18 22:20:03 +0000"
+      "has_chest": "2025-06-18 21:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-18 21:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-18 21:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-18 21:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-18 21:30:33 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-06-18 21:30:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-06-18 21:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-06-18 21:30:33 +0000"
     },
     "done": true
   },
@@ -1696,45 +1709,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
-    "criteria": {
-      "has_diamond": "2025-06-18 21:24:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-18 21:44:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-06-18 21:20:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-18 21:44:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-06-18 22:20:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-18 21:30:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-06-18 21:20:37 +0000"
     },
     "done": true
   },
@@ -1750,30 +1727,6 @@
     },
     "done": true
   },
-  "constructionwand:recipes/tools/diamond_wand": {
-    "criteria": {
-      "has_item": "2025-06-18 21:24:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-06-18 22:20:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-06-18 21:24:23 +0000"
-    },
-    "done": true
-  },
-  "more_ores_more_gems:essence_of_jade": {
-    "criteria": {
-      "essence_of_jade_0": "2025-06-18 21:17:45 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-06-18 21:30:33 +0000"
@@ -1786,33 +1739,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond": "2025-06-18 21:24:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-18 21:30:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-06-18 22:20:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-06-18 21:24:23 +0000"
-    },
-    "done": true
-  },
-  "more_ores_more_gems:the_stronger_than_iron": {
-    "criteria": {
-      "the_stronger_than_iron_0": "2025-06-18 21:32:17 +0000"
     },
     "done": true
   },
@@ -1828,45 +1757,9 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-06-18 21:24:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-18 21:30:33 +0000"
-    },
-    "done": true
-  },
-  "more_ores_more_gems:twilight_fusion": {
-    "criteria": {
-      "twilight_fusion_0": "2025-06-18 21:28:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-06-18 22:20:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-06-18 21:39:04 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/hay": {
-    "criteria": {
-      "has_wheat": "2025-06-18 22:17:25 +0000"
-    },
-    "done": true
-  },
-  "more_ores_more_gems:rainbowhite_combination": {
-    "criteria": {
-      "rainbowhite_combination_0": "2025-06-18 21:19:14 +0000"
     },
     "done": true
   },
@@ -1882,45 +1775,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-06-18 22:20:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-18 21:30:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-06-18 21:24:23 +0000"
-    },
-    "done": true
-  },
-  "more_ores_more_gems:brilliant_discovery": {
-    "criteria": {
-      "brilliant_discovery_0": "2025-06-18 21:41:05 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-06-18 21:30:33 +0000"
-    },
-    "done": true
-  },
-  "more_ores_more_gems:contemplating_nickel": {
-    "criteria": {
-      "contemplating_nickel_0": "2025-06-18 21:35:19 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-18 21:44:20 +0000"
     },
     "done": true
   },
@@ -1948,12 +1811,6 @@
     },
     "done": true
   },
-  "more_ores_more_gems:bladeofthe_skies": {
-    "criteria": {
-      "bladeofthe_skies_0": "2025-06-18 21:33:48 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
     "criteria": {
       "has_redstone": "2025-06-18 21:30:33 +0000"
@@ -1972,21 +1829,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-06-18 22:16:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-18 21:30:33 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald": "2025-06-18 22:16:53 +0000"
     },
     "done": true
   },
@@ -1996,33 +1841,15 @@
     },
     "done": true
   },
-  "dummmmmmy:recipes/dummy_crafting": {
-    "criteria": {
-      "has_hay_block": "2025-06-18 22:17:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-06-18 21:30:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-06-18 21:24:23 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-06-18 21:30:33 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard": {
-    "criteria": {
-      "has_chest": "2025-06-18 21:29:09 +0000"
     },
     "done": true
   },
@@ -2035,12 +1862,6 @@
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-06-18 21:30:33 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blank_upgrade": {
-    "criteria": {
-      "has_leather": "2025-06-18 22:20:03 +0000"
     },
     "done": true
   },
@@ -2068,18 +1889,6 @@
     },
     "done": true
   },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-06-18 22:08:54 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-18 21:44:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-18 21:30:33 +0000"
@@ -2089,30 +1898,6 @@
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-06-18 21:30:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-06-18 22:17:15 +0000"
-    },
-    "done": true
-  },
-  "more_ores_more_gems:golden_discovery": {
-    "criteria": {
-      "golden_discovery_0": "2025-06-18 21:35:10 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-06-18 22:08:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2025-06-18 21:24:23 +0000"
     },
     "done": true
   },
@@ -2128,9 +1913,237 @@
     },
     "done": true
   },
+  "more_ores_more_gems:the_essenceof_aether": {
+    "criteria": {
+      "the_essenceof_aether_0": "2025-06-18 21:31:37 +0000"
+    },
+    "done": true
+  },
+  "more_ores_more_gems:the_stronger_than_iron": {
+    "criteria": {
+      "the_stronger_than_iron_0": "2025-06-18 21:32:17 +0000"
+    },
+    "done": true
+  },
+  "more_ores_more_gems:bladeofthe_skies": {
+    "criteria": {
+      "bladeofthe_skies_0": "2025-06-18 21:33:48 +0000"
+    },
+    "done": true
+  },
+  "more_ores_more_gems:golden_discovery": {
+    "criteria": {
+      "golden_discovery_0": "2025-06-18 21:35:10 +0000"
+    },
+    "done": true
+  },
+  "more_ores_more_gems:contemplating_nickel": {
+    "criteria": {
+      "contemplating_nickel_0": "2025-06-18 21:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-18 21:39:04 +0000"
+    },
+    "done": true
+  },
+  "more_ores_more_gems:more_rare": {
+    "criteria": {
+      "more_rare_0": "2025-06-18 21:41:05 +0000"
+    },
+    "done": true
+  },
+  "more_ores_more_gems:mining_the_moonlight": {
+    "criteria": {
+      "mining_the_moonlight_0": "2025-06-18 21:41:05 +0000"
+    },
+    "done": true
+  },
+  "more_ores_more_gems:brilliant_discovery": {
+    "criteria": {
+      "brilliant_discovery_0": "2025-06-18 21:41:05 +0000"
+    },
+    "done": true
+  },
+  "more_ores_more_gems:titanium_digger": {
+    "criteria": {
+      "titanium_digger_0": "2025-06-18 21:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-18 21:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-18 21:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-18 21:44:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-18 21:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-18 21:44:20 +0000"
+    },
+    "done": true
+  },
+  "more_ores_more_gems:celestial_conqueror": {
+    "criteria": {
+      "celestial_conqueror_0": "2025-06-18 21:45:22 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-18 22:08:54 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-18 22:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-18 22:16:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-06-18 22:16:53 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-06-18 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-18 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-06-18 22:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-18 22:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-18 22:17:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-06-18 22:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-06-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-06-18 22:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-06-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-20 18:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-20 18:26:05 +0000"
     },
     "done": true
   },

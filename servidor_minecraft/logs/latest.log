@@ -126,3 +126,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Jun2025 18:23:14.432] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/114, l='ServerLevel[world]', x=1113.54, y=95.42, z=-329.70] died, message: 'Farmer was slain by Xbelter'
 [20Jun2025 18:24:00.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xbelter has made the advancement [Sweet Dreams]
 [20Jun2025 18:24:02.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xbelter> zzz
+[20Jun2025 18:25:47.512] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/110, l='ServerLevel[world]', x=1104.87, y=78.85, z=-319.30] died, message: 'Villager was slain by Zombie'
+[20Jun2025 18:26:17.375] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2cd38393[id=<null>,name=DrDoom14,properties={},legacy=false] (/127.66.222.64:48437) lost connection: Disconnected
+[20Jun2025 18:27:55.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrDoom14[/127.66.222.64:59065] logged in with entity id 1967 at (-3.5, 100.0, -5.5)
+[20Jun2025 18:27:55.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 joined the game
+[20Jun2025 18:28:23.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xbelter> x : 1075 z : -370 y : 99
+[20Jun2025 18:32:53.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrDoom14> tttttttt
+[20Jun2025 18:32:58.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=100, z=-8}
+[20Jun2025 18:33:00.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=100, z=-8}
+[20Jun2025 18:33:00.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=100, z=-8}
+[20Jun2025 18:33:10.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xbelter> tt
+[20Jun2025 18:33:13.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=100, z=-8}
+[20Jun2025 18:33:14.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=100, z=-8}
+[20Jun2025 18:34:20.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xbelter: Teleported DrDoom14 to Xbelter]
+[20Jun2025 18:35:22.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 has made the advancement [Sweet Dreams]

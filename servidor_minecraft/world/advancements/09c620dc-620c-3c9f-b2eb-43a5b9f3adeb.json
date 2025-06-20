@@ -27,10 +27,12 @@
     "criteria": {
       "minecraft:birch_forest": "2025-06-18 22:07:58 +0000",
       "minecraft:bamboo_jungle": "2025-06-18 20:22:15 +0000",
+      "minecraft:beach": "2025-06-20 18:48:53 +0000",
       "minecraft:sparse_jungle": "2025-06-18 20:24:44 +0000",
       "minecraft:river": "2025-06-18 20:21:33 +0000",
       "minecraft:dripstone_caves": "2025-06-18 20:26:05 +0000",
       "minecraft:forest": "2025-06-18 21:08:51 +0000",
+      "minecraft:lush_caves": "2025-06-20 18:53:13 +0000",
       "minecraft:jungle": "2025-06-18 19:57:20 +0000",
       "minecraft:flower_forest": "2025-06-20 18:27:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-18 22:09:06 +0000",
@@ -646,7 +648,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2025-06-20 19:09:37 +0000",
       "apple": "2025-06-18 20:52:35 +0000",
+      "potato": "2025-06-20 19:07:16 +0000",
       "mutton": "2025-06-18 20:24:56 +0000",
       "bread": "2025-06-18 22:18:43 +0000",
       "melon_slice": "2025-06-18 20:29:52 +0000"
@@ -702,7 +706,8 @@
       "minecraft:creeper": "2025-06-18 20:44:20 +0000",
       "minecraft:husk": "2025-06-18 21:45:22 +0000",
       "minecraft:enderman": "2025-06-18 20:54:28 +0000",
-      "minecraft:zombie": "2025-06-18 20:28:51 +0000"
+      "minecraft:zombie": "2025-06-18 20:28:51 +0000",
+      "minecraft:zombie_villager": "2025-06-20 19:04:43 +0000"
     },
     "done": false
   },
@@ -2135,9 +2140,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-06-20 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-20 18:48:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-20 18:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-20 18:48:21 +0000"
     },
     "done": true
   },
@@ -2147,9 +2170,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-20 18:48:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-20 18:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-20 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-20 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-20 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-20 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-20 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-20 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-20 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-20 18:48:16 +0000"
     },
     "done": true
   },
@@ -2159,15 +2236,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-20 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-20 18:48:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-06-20 18:40:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-06-20 18:48:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-06-20 18:40:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-20 18:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-06-20 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-06-20 19:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-20 18:48:16 +0000"
     },
     "done": true
   },
@@ -2180,6 +2299,30 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-06-20 18:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-20 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-20 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-20 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-06-20 18:48:16 +0000"
     },
     "done": true
   },

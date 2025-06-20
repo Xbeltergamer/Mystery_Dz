@@ -34,6 +34,7 @@
       "minecraft:forest": "2025-06-18 21:08:51 +0000",
       "minecraft:lush_caves": "2025-06-20 18:53:13 +0000",
       "minecraft:jungle": "2025-06-18 19:57:20 +0000",
+      "minecraft:ocean": "2025-06-20 19:49:21 +0000",
       "minecraft:flower_forest": "2025-06-20 18:27:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-18 22:09:06 +0000",
       "minecraft:plains": "2025-06-18 22:15:28 +0000"
@@ -648,7 +649,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-20 20:03:56 +0000",
+      "cooked_mutton": "2025-06-20 19:53:51 +0000",
       "beef": "2025-06-20 19:09:37 +0000",
+      "porkchop": "2025-06-20 19:56:44 +0000",
       "apple": "2025-06-18 20:52:35 +0000",
       "potato": "2025-06-20 19:07:16 +0000",
       "mutton": "2025-06-18 20:24:56 +0000",
@@ -702,9 +706,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-18 20:44:49 +0000",
+      "minecraft:hoglin": "2025-06-20 19:56:39 +0000",
       "minecraft:spider": "2025-06-18 20:29:01 +0000",
+      "minecraft:piglin_brute": "2025-06-20 20:01:47 +0000",
       "minecraft:creeper": "2025-06-18 20:44:20 +0000",
       "minecraft:husk": "2025-06-18 21:45:22 +0000",
+      "minecraft:piglin": "2025-06-20 19:55:09 +0000",
       "minecraft:enderman": "2025-06-18 20:54:28 +0000",
       "minecraft:zombie": "2025-06-18 20:28:51 +0000",
       "minecraft:zombie_villager": "2025-06-20 19:04:43 +0000"
@@ -2140,6 +2147,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 20:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-20 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-20 19:53:28 +0000",
+      "minecraft:soul_sand_valley": "2025-06-20 19:58:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-06-20 18:48:16 +0000"
@@ -2155,6 +2181,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-20 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 20:01:57 +0000"
     },
     "done": true
   },
@@ -2200,9 +2232,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 20:01:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-20 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-20 20:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-20 19:56:40 +0000"
     },
     "done": true
   },
@@ -2254,6 +2304,18 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-06-20 20:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 20:01:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-20 19:20:19 +0000"
@@ -2263,6 +2325,18 @@
   "more_ores_more_gems:boundby_aether": {
     "criteria": {
       "boundby_aether_0": "2025-06-20 19:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 20:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-20 19:56:40 +0000"
     },
     "done": true
   },
@@ -2284,15 +2358,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-20 19:54:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-20 18:48:21 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-06-20 19:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-20 20:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-20 20:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-06-20 19:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 20:01:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-06-20 19:53:37 +0000"
     },
     "done": true
   },
@@ -2308,15 +2418,39 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-20 19:53:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-06-20 18:40:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-06-20 19:53:06 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/squid_smithing": {
     "criteria": {
       "has_squid": "2025-06-20 19:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-20 19:56:40 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-06-20 19:53:26 +0000"
     },
     "done": true
   },
@@ -2341,6 +2475,12 @@
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2025-06-20 19:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-20 19:53:26 +0000"
     },
     "done": true
   },
@@ -2374,15 +2514,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 20:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-20 20:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-06-20 19:40:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-20 19:54:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-20 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-20 20:01:34 +0000"
     },
     "done": true
   },

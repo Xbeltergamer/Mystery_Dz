@@ -27,6 +27,7 @@
     "criteria": {
       "minecraft:birch_forest": "2025-06-18 22:07:56 +0000",
       "minecraft:bamboo_jungle": "2025-06-18 20:22:01 +0000",
+      "minecraft:beach": "2025-06-20 19:16:20 +0000",
       "minecraft:sparse_jungle": "2025-06-18 20:22:27 +0000",
       "minecraft:river": "2025-06-18 20:21:15 +0000",
       "minecraft:dripstone_caves": "2025-06-18 20:28:18 +0000",
@@ -2198,6 +2199,24 @@
   "more_ores_more_gems:the_king_of_gem_durability": {
     "criteria": {
       "the_king_of_gem_durability_0": "2025-06-20 19:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-20 19:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-06-20 19:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-20 19:13:23 +0000"
     },
     "done": true
   },

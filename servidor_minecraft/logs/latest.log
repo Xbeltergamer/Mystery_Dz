@@ -1543,3 +1543,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Jun2025 19:15:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonixxxs> fuck
 [20Jun2025 19:15:39.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xbelter: Set own game mode to Survival Mode]
 [20Jun2025 19:15:46.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 was slain by jonixxxs
+[20Jun2025 19:16:36.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xbelter has made the advancement [Bound by Aether]
+[20Jun2025 19:17:12.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonixxxs lost connection: Disconnected
+[20Jun2025 19:17:12.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonixxxs left the game
+[20Jun2025 19:18:04.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xbelter: Teleported DrDoom14 to Xbelter]
+[20Jun2025 19:18:11.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonixxxs[/127.89.62.0:48315] logged in with entity id 20775 at (1107.50924056022, 16.0, -188.7037214488325)
+[20Jun2025 19:18:11.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonixxxs joined the game
+[20Jun2025 19:18:14.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xbelter> apel
+[20Jun2025 19:18:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xbelter> apel
+[20Jun2025 19:18:16.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xbelter> apel
+[20Jun2025 19:18:17.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xbelter> apel
+[20Jun2025 19:18:17.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xbelter> apel
+[20Jun2025 19:18:22.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xbelter: Teleported jonixxxs to Xbelter]
+[20Jun2025 19:19:19.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xbelter> apel
+[20Jun2025 19:19:30.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xbelter was slain by DrDoom14
+[20Jun2025 19:19:38.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xbelter: Teleported Xbelter to DrDoom14]
+[20Jun2025 19:20:09.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 was slain by Xbelter
+[20Jun2025 19:20:21.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xbelter: Teleported DrDoom14 to Xbelter]

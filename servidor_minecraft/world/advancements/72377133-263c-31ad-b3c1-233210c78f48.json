@@ -414,6 +414,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/decorations/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-20 19:15:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-20 18:51:01 +0000"
@@ -1803,7 +1809,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-06-20 18:36:29 +0000"
+      "bread": "2025-06-20 18:36:29 +0000",
+      "carrot": "2025-06-20 19:18:39 +0000"
     },
     "done": false
   },

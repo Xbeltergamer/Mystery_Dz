@@ -1561,3 +1561,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Jun2025 19:20:09.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 was slain by Xbelter
 [20Jun2025 19:20:21.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xbelter: Teleported DrDoom14 to Xbelter]
 [20Jun2025 19:31:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xbelter has made the advancement [Ice Bucket Challenge]
+[20Jun2025 19:37:42.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 was shot by Skeleton
+[20Jun2025 19:37:54.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xbelter: Teleported DrDoom14 to Xbelter]
+[20Jun2025 19:38:29.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonixxxs> tp
+[20Jun2025 19:38:36.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xbelter> apel
+[20Jun2025 19:38:38.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonixxxs> jibni 3andek
+[20Jun2025 19:38:45.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonixxxs> vitvit
+[20Jun2025 19:38:49.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xbelter: Teleported jonixxxs to Xbelter]
+[20Jun2025 19:39:30.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xbelter> zzz
+[20Jun2025 19:39:33.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonixxxs lost connection: Disconnected
+[20Jun2025 19:39:33.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonixxxs left the game
+[20Jun2025 19:39:58.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonixxxs[/127.89.62.0:45183] logged in with entity id 31127 at (1098.300000011921, 85.0, -286.7048555740004)
+[20Jun2025 19:39:58.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonixxxs joined the game
+[20Jun2025 19:40:19.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonixxxs lost connection: Disconnected
+[20Jun2025 19:40:19.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonixxxs left the game
+[20Jun2025 19:41:35.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1183, y=78, z=-331} BlockPos{x=1183, y=77, z=-331}

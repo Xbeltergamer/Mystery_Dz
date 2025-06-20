@@ -140,3 +140,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Jun2025 18:33:14.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=100, z=-8}
 [20Jun2025 18:34:20.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xbelter: Teleported DrDoom14 to Xbelter]
 [20Jun2025 18:35:22.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 has made the advancement [Sweet Dreams]
+[20Jun2025 18:36:59.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 was slain by Xbelter
+[20Jun2025 18:37:04.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xbelter: Teleported DrDoom14 to Xbelter]
+[20Jun2025 18:37:12.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xbelter> qzzzz
+[20Jun2025 18:37:24.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 has made the advancement [Stone Age]
+[20Jun2025 18:37:46.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 has made the advancement [The Sapphire Seeker]
+[20Jun2025 18:37:46.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 has made the advancement [Essence of Jade]
+[20Jun2025 18:37:47.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 has made the advancement [Brilliant Discovery]
+[20Jun2025 18:37:51.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 has made the advancement [Be Careful ! It's Radioactive !]
+[20Jun2025 18:37:55.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 has made the advancement [Diamonds!]
+[20Jun2025 18:39:24.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 has made the advancement [Is this... blood?]
+[20Jun2025 18:39:24.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 was slain by Xbelter
+[20Jun2025 18:39:29.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xbelter: Teleported DrDoom14 to Xbelter]
+[20Jun2025 18:39:41.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 was slain by Xbelter
+[20Jun2025 18:39:42.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xbelter: Teleported DrDoom14 to Xbelter]
+[20Jun2025 18:39:44.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xbelter: Teleported DrDoom14 to Xbelter]
+[20Jun2025 18:43:27.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 has made the advancement [Acquire Hardware]
+[20Jun2025 18:43:36.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 has made the advancement [Isn't It Iron Pick]
+[20Jun2025 18:45:04.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrDoom14 has made the advancement [It's Amethyst!]
